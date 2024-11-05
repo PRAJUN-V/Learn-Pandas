@@ -16,3 +16,7 @@ pip install pandas
 2. mod2
 - DataFrame
 
+3. mod3
+- read csv files
+
+
